@@ -8,7 +8,10 @@ const W1 = () => {
   const photos = [
     "/images/v1.jpeg",
     "/images/v2.jpeg",
-    "/images/v3.jpeg"
+    "/images/v3.jpeg",
+    "/images/v4.jpeg",
+    "/images/v5.jpeg",
+    "/images/v6.jpeg"
   ];
 
   return (
@@ -59,3 +62,4 @@ const W1 = () => {
 };
 
 export default W1;
+
