@@ -22,7 +22,7 @@ const W2 = () => {
       <div className="whistle-letter fade-in-scale">
 
         <h2 className="letter-title fade-drop">
-          <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+          <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
           Lady Whistledown’s
           <br />
           Society Papers
@@ -61,6 +61,7 @@ const W2 = () => {
 };
 
 export default W2;
+
 
 
 
