@@ -22,6 +22,7 @@ const W2 = () => {
       <div className="whistle-letter fade-in-scale">
 
         <h2 className="letter-title fade-drop">
+          <br /><br />
           Lady Whistledown’s
           <br />
           Society Papers
@@ -29,7 +30,7 @@ const W2 = () => {
 
         <p className="letter-subtitle fade-soft">
           <em>Dearest Gentle Reader,</em>
-        </p>
+        </p><br />
 
         <p className="letter-text typewriter">
           It is with great delight that this author presents the most
@@ -37,18 +38,18 @@ const W2 = () => {
           <br />
           Today, society celebrates the birthday of the radiant and
           ever-charming <br /><span>Lady Varshhhh</span>.
-          <br />
+          <br /><br />
           Her grace rivals the blooming wisteria, her kindness softens
           every heart it touches, and her presence brightens even the
           dullest of days. To all her new start in this year of life,
           may it be filled with endless joy, love, and prosperity.
-          <br />
+          <br /><br />
           This author dares to declare that Lady Varshhhh is, indeed,
           the unrivaled jewel of this year’s social season.
-          <br />
+          <br /><br />
           May her days be filled with romance, joy, prosperity,
           and the gentle warmth of everlasting happiness.
-          <br /><br />
+          <br /><br /><br />
           <em>Yours Truly,</em>
           <br />
           <strong>Lady Whistledown</strong> 🖋️
@@ -60,3 +61,4 @@ const W2 = () => {
 };
 
 export default W2;
+
