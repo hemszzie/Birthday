@@ -327,14 +327,16 @@
 }
 
 .whistle-wrapper {
-  min-height: 0;
+  width: 100%;
+  min-height: 100vh;
   background: linear-gradient(180deg, #d4c4b5 0%, #f7f1e9 100%);
   display: flex;
   justify-content: center;
-  padding-top: 0;
+  padding: 0 0 60px;
   position: relative;
   font-family: "Playfair Display", serif;
-  overflow:visible;
+  overflow-y:visible;
+  overflow-x: hidden;
 }
 
 .floral-top {
@@ -482,6 +484,7 @@
   0% { transform: translateY(-30px); opacity: 0; }
   100% { transform: translateY(0); opacity: 1; }
 }
+
 
 
 
